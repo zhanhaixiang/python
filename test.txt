@@ -1,9 +1,14 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 abc
 =======
 abc
 >>>>>>> featurel
+=======
+abc
+
+>>>>>>> Stashed changes
 =======
 abc
 
