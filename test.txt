@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
-ab c
+abc
 =======
 abc
 >>>>>>> featurel
+=======
+abc
+
+>>>>>>> Stashed changes
